@@ -1,0 +1,107 @@
+body{
+	background-color: #F5F5F5;
+}
+#inicio_se{
+	border-color: silver; 
+	background-color: rgb(219,219,219);
+	width: 21%;
+	padding:1%;
+	text-align: center;
+	margin-left: 39%;
+	border-radius: 2.5%;
+}
+.tabla{
+	border-color: silver; 
+	background-color: rgb(219,219,219);
+	margin-left: 11%;
+	width: 76%;
+	border-radius: 2.5%;
+	padding: 2%;
+}
+#b_consul{
+	background-color: silver;
+}
+.consulta{
+	text-decoration: none;
+}
+input{
+	padding: 0.3em;
+	display: inline-block;
+}
+label{
+	display: block;
+	
+}
+.ti_hora{
+	display: inline;
+	margin-left: 0.9%;
+}
+.ti_fecha{
+	display: inline;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 20%;
+    background-color: #f1f1f1;
+    display: inline-block;
+}
+
+li a {
+    display: block;
+    color: #000;
+    padding: 8px 0 8px 16px;
+    text-decoration: none;
+}
+li a.active {
+    background-color: #4CAF50;
+    color: white;
+}
+/* Change the link color on hover */
+li a:hover {
+    background-color: #555;
+    color: white;
+}
+#tab_empleados{
+	margin-left: 22%;
+	display: inline block;
+	width: 70%;
+	margin-top: -12.2%;
+}
+#principal{
+	margin-top: -8%;
+	margin-left: 51%;
+	width: 49.3%;
+}
+#empresa{
+	color: red;
+	text-shadow: 0px 0px 10px black;
+	font-size: 300%;
+
+}
+#empresa2{
+	color: white;
+	border-color: black;
+	font-size: 50%;
+}
+#empresa_pdf{
+	color: red;
+	text-shadow: 0px 0px 10px black;
+	font-size: 100%;
+
+}
+#empresa2_pdf{
+	color: black;
+	border-color: black;
+	font-size: 80%;
+}
+#tabla_pdf{
+	border-collapse: collapse;
+}
+#tabla_pdf td{
+	padding: 10px;
+}
+#cargaexterna{
+	margin-left:  22%;
+}
